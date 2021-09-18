@@ -2,7 +2,7 @@
 
 ## This PHP Project is For Beginner to Understand how to Display Flash Messages to User.
 
-[Live Demo](https://smtbos.com/php-flash-message/)
+[Live Demo]https://smtbos.com/projects/php-flash-message/)
 
 ## **Screen Shots.**
 
